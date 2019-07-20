@@ -1,0 +1,6 @@
+Para um vetor ou matriz, sin(x) é o seno de seus elementos. Para o seno da matriz (matriz seno) use a função sinm(X).
+
+
+A=[1,2;3,4]
+sin(asin(A))
+plot(x,sin(x))

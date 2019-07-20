@@ -1,0 +1,10 @@
+nota1 = input("digite a primeira nota:");
+nota2 = input("digite a segunda nota:");
+
+media = (nota1+nota2)/2;
+
+printf("Sua média é %g\n",media)
+
+if media > 7
+printf("Parabéns!");
+end

@@ -1,0 +1,6 @@
+Computa a cossecante do argumento elemento a elemento. A função cossecante é uma função periódica definida como 1/sin. Para dados reais, os resultados são reais em -%inf -1  1 %inf.
+
+
+x=linspace(0.01,%pi-0.01,200)
+clf();plot(-x,csc(-x),x,csc(x))
+plot(x,csc,(x))

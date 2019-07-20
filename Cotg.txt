@@ -1,0 +1,8 @@
+[t]=cotg(x)
+
+Os elementos de t são as cotangentes das entradas correspondentes de x. t=cos(x)./sin(x)
+
+
+x=[1,%i];
+cotg(x)-cos(x)./sin(x)
+plot(x,cotg,(x))

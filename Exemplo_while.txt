@@ -1,0 +1,11 @@
+i = 1;
+while i <= 3
+nota1 = input("Digite a 1a. nota bimestral:");
+nota2 = input("Digite a 2a. nota bimestral:");
+nota3 = input("Digite a 3a. nota bimestral:");
+nota4 = input("Digite a 4a. nota bimestral:");
+media = (nota1 + nota2 + nota3 + nota4)/4;
+printf("Media = %g\n",media);
+i = i + 1;
+end
+printf("Fim do programa");
